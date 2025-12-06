@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+pdfminer.six
+spacy
+matplotlib
+# You must download the spacy model separately:
+# python -m spacy download en_core_web_sm
